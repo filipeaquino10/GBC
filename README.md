@@ -20,6 +20,6 @@
   - 3PM -  Comm2000 - Communicating Across Contexts
 #### Thursday
   - N/A
-Friday
+#### Friday
   - 12PM - Math1162 - Math For Computer Terchnology
   - 2PM - COMP1151 - IT Essentials
